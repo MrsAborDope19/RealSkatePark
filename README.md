@@ -1,3 +1,3 @@
-permaalink: /index.html
+permaalink: /
 # RealSkatePark
 bootstrap add
